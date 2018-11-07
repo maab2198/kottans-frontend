@@ -1,9 +1,9 @@
 # kottans-frontend
 
-## My road map with kottans-frontend
+## My road map with kottans-frontend :smiley_cat:
 
  0. :fire: [Git Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
- 1. :smiley_cat: [Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
+ 1. [Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
  2. [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
 
  3. [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
