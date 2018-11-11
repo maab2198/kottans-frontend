@@ -71,3 +71,40 @@ the diagram the way we do?
 7. What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
     - More often git can solve the conflict automatily but whe people make some shit it asks for help
+
+### Lesson4
+
+1. When would you want to use a remote repository rather than keeping all your work
+local?
+
+    - For collaboration with other people. To use the repoistory from other computer and have a backup.
+
+2. Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+    - That might cause some confusion when you are working with team of developers.
+
+3. Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+    - fork - you have connection with parent repository. used only for remote repositories.
+    - clon - creates copy from any git repository.
+    - branches - created inside of one single git repository and all the user of the repository can know what branches are there.
+
+4. What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    -  You can see that state of the remote even if you're offline. It also allows you to do comparisons with what is on the remote.
+
+5. How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+    - Google Disk, Telegram and  Dropbox. There're good foork books or documents (I'm not goimg to them).Github is usefull for code and "alive" documentation or even for blogs
+
+6. When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+    - Working in a separate branch ensures that your master branch is
+    always kept in a working state. You can try and experiment new
+    functionality in the new branch untill you are sure
+    it works without breaking anything.
