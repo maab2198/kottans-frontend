@@ -7,8 +7,8 @@
 > :fire: task is in the process
 
  0. :smiley_cat: [Git Basics](./task0/task0.md)
- 1. [Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
- 2. :fire: [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
+ 1. :fire: [Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
+ 2. :smiley_cat: [VCS (hello gitty), GitHub and Collaboration](./task2/task2.md)
 
  3. :fire: [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
  4. [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)

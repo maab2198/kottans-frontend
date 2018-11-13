@@ -8,8 +8,10 @@
 ### Intend to use
 - git log --all --decorate --oneline --graph
 - how to make colored output 
+- typingclub is great ))))
 
 ### Proofs
 ![result](./task0.png)
 
 ### [Reflections](./reflection.md)
+
